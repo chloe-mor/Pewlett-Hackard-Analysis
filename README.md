@@ -13,12 +13,10 @@ In order to prepare Pewlett Hackard for the "silver tsunami," we have determined
 
 ## Summary:
 How many roles will need to be filled as the "silver tsunami" begins to make an impact? 
-
-There could potentially be 90k roles opening up.
+- There could potentially be 90k roles opening up.
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? 
-
-Most departments have enough employees who are eligible to be mentors. The one area of concern is Senior Engineers.
+- Most departments have enough employees who are eligible to be mentors. The one area of concern is Senior Engineers.
 
 We suggest making two additional queries of the data to gain more insight into the "silver tsunami:"
 1. How many employees are eligible to be mentors and are also "cross-trained" (have been part of multiple departments)?
